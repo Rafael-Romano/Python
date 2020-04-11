@@ -19,7 +19,7 @@ plt.show()
 #import os
 #os.startfile(r"diretório")
 
-print("FICHA DE FREQUÊNCIA:")
+'''print("FICHA DE FREQUÊNCIA:")
 mes = input('Informe o mês: ')
 ano = input('Informe o ano: ')
 semana = {
@@ -28,4 +28,4 @@ semana = {
     'TER':['9:10', '13:50'],
     'TER2':['16:40', '18:20'],
     'QUA':['9:10', "11:10"],
-    'QUI':['11:10', '12:50']}
+    'QUI':['11:10', '12:50']}'''
